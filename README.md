@@ -4,7 +4,7 @@ Hi there, I'm <a href="Faizal mamah/" target="_blank" rel="noreferrer">Faizal</a
 </h3>
 
 <h2 align="center">
-I'm a cloud systems architect 💻, Photographer 📸, and Drummer 🥁🎧!
+I'm a cloud systems architect 💻
 </h2> 
 
 ### 🤝 Connect with me:
