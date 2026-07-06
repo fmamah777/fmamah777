@@ -13,22 +13,6 @@ I'm a cloud systems architect 💻
 
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
-## 🔭 I'm currently working on
-
-- My capstone project
-- My personal CI/CD pipeline introductory webiste hoested on netlify
-- Securing ccontractural leads
-- My next blog
-- My system architecture skills
-
-## 🌱 I'm currently learning
-
-- 📱 Scrum
-- Agile
-- PHP
-- compression code algorithims  
-
-## 📝 Latest Blog Posts
 
 [](https://docs.google.com/document/d/1SsyCEJS9Dih4cYCfNilb07uI2APXBsNhNPS1TF9527M/edit?usp=sharing)
 [](https://docs.google.com/document/d/1zHyaOosK0vf9kYIvM2qRu2i1_JNSDgbIbqlL60YWZGI/edit?usp=sharing)
